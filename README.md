@@ -1,7 +1,7 @@
-#VITyarthi | Open Source Software
-##The Open Source Audit
+# VITyarthi | Open Source Software
+##  The Open Source Audit
 
-##A Capstone Project for OSS NGMC Course
+## A Capstone Project for OSS NGMC Course
 
 
 ## Student Details
